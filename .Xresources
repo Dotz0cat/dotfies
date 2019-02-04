@@ -1,0 +1,7 @@
+urvxt*transparent: true
+urvxt*shading: 30
+
+urvxt*foreground: ffffff
+
+urvxt.font: xft:DejaVu Sans Mono:Size=12
+urvxt.boldfont: xft:DejaVu Sans Mono:Size=14

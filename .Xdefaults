@@ -1,0 +1,16 @@
+URxvt*transparent: true
+URxvt*shading: 30
+
+URxvt*foreground: ffffff
+
+URxvt*boldMode: false
+
+
+rofi.lines: 3
+rofi.eh: 2
+rofi.width: 100
+rofi.padding: 800
+rofi.bw: 0
+rofi.fake-transparency: true 
+rofi.fake-background: background
+
