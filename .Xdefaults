@@ -5,6 +5,9 @@ URxvt*foreground: ffffff
 
 URxvt*boldMode: false
 
+URvxt.font: xft:DejaVu Sans Mono:Size=12
+URvxt.boldFont: xft:DejaVu Sans Mono:Size=14
+
 
 rofi.lines: 3
 rofi.eh: 2
