@@ -1,0 +1,32 @@
+
+
+
+* {
+	background-color:	#000000aa;
+	text-color:		#ffffff;
+	lines:			3;
+	font:			"DejaVu Sans Mono Regular 14";
+	eh:			2;
+	hide-scroolbar:		"true";
+	spacing:		0;
+}
+
+#window {
+	background-color: 	#000000aa;
+	transparency:		"fake";
+	border:			0;
+	padding:		490 850;
+	border-color:		#000000aa;
+	fullscreen:		true;
+}
+
+#mainbox {
+	background-color:	#000000aa;
+	border:			0;
+	padding:		0;
+	color:			#000000aa;
+	width:			100;
+	lines:			3;
+}
+
+
