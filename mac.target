@@ -1,0 +1,6 @@
+[Unit]
+Description=runlevel for mackenzie
+Requires=graphical.target network.target lightdm.service bluetooth.service
+wants=
+After=graphical.target network.target rescue.service rescue.target
+AllowIsolate=yes
